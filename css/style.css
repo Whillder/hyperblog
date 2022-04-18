@@ -7,7 +7,26 @@ html {
     font-size: 62.5%;
 }
 body{
+    font-size: 1.6rem;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: cadetblue;
+    color: rgb(40, 37, 231);
+    display: flex;
+    display: flex;
+    justify-content: center;
+}
+#container{
+    width: 70%;
+    padding: 2rem;
+    text-align: left;
+    border: 0.1rem solid #DDD;
+
+}
+#container h1{
+    padding: 1rem;
+    text-align: center;
+    font-size: 3rem;
+}
+#post{
+    
 }
